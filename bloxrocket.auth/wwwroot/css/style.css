@@ -1,0 +1,51 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color:#252525;
+    font-family: 'Arial';
+}
+
+.login {
+    width: 310px;
+    height: 150px;
+    background-color: #343434;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    max-width: 100%;
+    max-height: 100%;
+    overflow: auto;
+}
+
+.captcha {
+    width: 310px;
+    height: 270px;
+    background-color: #343434;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    max-width: 100%;
+    max-height: 100%;
+    overflow: auto;
+    visibility: hidden;
+}
+
+.textbox{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+}
+.button{
+    width: 310px;
+    height: 50px;
+    border: none;
+}

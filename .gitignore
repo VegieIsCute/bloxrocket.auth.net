@@ -1,0 +1,7 @@
+#Visual Studio metadata folder
+.vs/
+
+#Project build folders
+*/bin/
+*/obj
+*/node_modules
